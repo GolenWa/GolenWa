@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Multiplatform+App+Development+Student;Passionate+about+Technology;Always+Learning+New+Things!" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4E03AQEu1XlWV6uEkA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1732693024450?e=1747267200&v=beta&t=smVBQZL0vOc8PZqOByFwEa-VM2O6K8BKQWVVtt9RXSc" width="150" style="border-radius: 50%; border: 4px solid #00D4FF;" />
-</div>
-
 ---
 
 ## 🌟 Sobre mí
